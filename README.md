@@ -1,4 +1,4 @@
-# Fino — Your money, on call
+# Fino : Your money, on call
 
 Fino is a voice-first personal finance assistant prototype. It reads your bank and UPI payment SMS, asks you only about the unclear ones, and answers your money questions out loud — in English, Hindi or Hinglish, whichever you speak.
 
