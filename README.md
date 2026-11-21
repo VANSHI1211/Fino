@@ -11,6 +11,7 @@ Fino is a voice-first personal finance assistant prototype. It reads your bank a
    - "How much did I spend this month?"
    - "Is hafte food pe kitna kharcha hua?"
    - "Can I afford ₹2,000 on shopping?"
+   - "Set my limit of ₹5,000 on shopping"
 
 The app replies in the language you used.
 
